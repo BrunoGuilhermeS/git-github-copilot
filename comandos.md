@@ -29,4 +29,8 @@ git push
 
 ## O que é o arquivo README.md ?
 
-é a porta de entrada do repositório, contendo sua apresentação e informações sobre setup de ambiente, tecnologia e outras informações importantes
+É a porta de entrada do repositório, contendo sua apresentação e informações sobre setup de ambiente, tecnologia e outras informações importantes.
+
+## é preciso atualizar o repositório local primeiro, caso foram feitas alterações na main, antes de usar o "push", para atualizar com a versão mais nova do repositório remoto é preciso usar:
+
+git pull
