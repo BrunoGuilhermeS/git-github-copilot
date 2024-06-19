@@ -16,3 +16,17 @@ git status
 git add {caminho do arquivo}
 
 git add . (adiciona todos os arquivos)
+
+## O que é um commit?
+
+é confirmar uma alteração, contendo o que foi alterado, quando foi feita a alteração, quem alterou e o identificador do commit.
+
+git commit -m "descrição do commit"
+
+## Como enviar os arquivos locais para o github?
+
+git push
+
+## O que é o arquivo README.md ?
+
+é a porta de entrada do repositório, contendo sua apresentação e informações sobre setup de ambiente, tecnologia e outras informações importantes
