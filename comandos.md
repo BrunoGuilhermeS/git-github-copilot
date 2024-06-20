@@ -59,5 +59,13 @@ git pull origin nome-da-branch
 
 git merge nome-da-branch
 
-## 
+## O que é uma pull request?
+
+pull request é a solicitação de juncao de duas versões de um mesmo código.
+
+# O que é um conflito?
+
+um conflito ocorre quando temos duas versões de um código, no mesmo lugar do de um projeto, vindo de fontes diferentes.
+
+
 
