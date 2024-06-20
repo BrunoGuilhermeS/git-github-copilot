@@ -51,7 +51,7 @@ git checkout -b nome-da-branch
 
 git checkout nome-da-branch
 
-## Como fazer o puul de uma branch especifica?
+## Como fazer o pull de uma branch especifica?
 
 git pull origin nome-da-branch
 
@@ -71,3 +71,6 @@ um conflito ocorre quando temos duas versões de um código, no mesmo lugar do d
 
 git remote add origin url-do-repositório
 
+## Não crie duas branch com o mesmo nome e aponte elas para a mesma origem
+
+irá causar um conflito
