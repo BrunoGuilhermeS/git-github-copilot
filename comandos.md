@@ -51,4 +51,13 @@ git checkout -b nome-da-branch
 
 git checkout nome-da-branch
 
+## Como fazer o puul de uma branch especifica?
+
+git pull origin nome-da-branch
+
+## Como juntar duas branchs localmente
+
+git merge nome-da-branch
+
 ## 
+
