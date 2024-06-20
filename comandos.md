@@ -67,5 +67,7 @@ pull request é a solicitação de juncao de duas versões de um mesmo código.
 
 um conflito ocorre quando temos duas versões de um código, no mesmo lugar do de um projeto, vindo de fontes diferentes.
 
+## Como adicionar origem remota?
 
+git remote add origin url-do-repositório
 
