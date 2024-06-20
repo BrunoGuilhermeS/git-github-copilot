@@ -34,3 +34,21 @@ git push
 ## é preciso atualizar o repositório local primeiro, caso foram feitas alterações na main, antes de usar o "push", para atualizar com a versão mais nova do repositório remoto é preciso usar:
 
 git pull
+
+## O que são Branchs?
+
+Branchs são ramificações do mesmo código, que permite uma equipe trabalhar em versões diferentes do mesmo projeto.
+
+## O que é Merge?
+
+Merge consiste na união de duas versões diferentes do mesmo código, podendo ser duas versões da mesma branch, ou duas branchs diferentes.
+
+## Como criar uma nova branch?
+
+git checkout -b nome-da-branch
+
+## Para trocar de branch: 
+
+git checkout nome-da-branch
+
+## 
